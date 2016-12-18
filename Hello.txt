@@ -4,6 +4,9 @@ This is just a test.
 this is a short text.
 it was added in between line 2 and line 7.
 I hope you liked reading it!
+just added some more stuff to the short text
+second new line
+the third line...
 end of the short text.
 
 added a line!
